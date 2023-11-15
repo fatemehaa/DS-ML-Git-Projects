@@ -11,4 +11,4 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 - **Honey Production** - Linear Regression using a honey production dataset
 - **Limits and Derivatives** -
 - **Transforming Data into Features** - 
-- **Tennis Ace** - Linear Regreesion model with training and test sets
+- **Tennis Ace** - Linear Regreesion model with training and test sets to predict the outcome for a tennis player based on their playing habits
