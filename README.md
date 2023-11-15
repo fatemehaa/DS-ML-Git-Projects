@@ -8,6 +8,6 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 - **Familiar - A Study in Data Analysis** -
 - **FetchMaker** -
 - **Heart Disease Research Part II** -
-- **Honey Production - Linear Regression** -
+- **Honey Production** - Linear Regression using a honey production dataset
 - **Limits and Derivatives** -
 - **Transforming Data into Features** - 
