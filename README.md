@@ -10,5 +10,6 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 - **Heart Disease Research Part II** -
 - **Honey Production** - Linear Regression using a honey production dataset
 - **Limits and Derivatives** -
+- **Predict Credit Card Fraud** - Use Logistic Regression to predict credit card fraud using a synthetic financial database
+- **Tennis Ace** - Linear RegreSsion model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple feature linear regression models.
 - **Transforming Data into Features** - 
-- **Tennis Ace** - Linear RegreSsion model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple feature linear regression models. 
