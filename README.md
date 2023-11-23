@@ -5,6 +5,7 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 
 - **A-B Testing at Nosh Mish Mosh** -
 - **Analysing Farmburg's A-B Test** -
+- **Cancer Classifier** - creating a K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.
 - **Familiar - A Study in Data Analysis** -
 - **FetchMaker** -
 - **Heart Disease Research Part II** -
