@@ -9,6 +9,7 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 - **Decision Trees** - Practice code for using decision trees as classifiers and regressors.
 - **Familiar - A Study in Data Analysis** -
 - **FetchMaker** -
+- **Find the Flag!** - Using a Decision Tree Classifier to find out which continent a flag is from.
 - **Heart Disease Research Part II** -
 - **Honey Production** - Linear Regression using a honey production dataset
 - **Income Classification** - Logistic Regression model to classify income level and plot coefficients, ROC curve, and AUC value.
