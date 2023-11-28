@@ -17,3 +17,4 @@ They start from the maths section of the curriculum in 'Machine Learning Foundat
 - **Predict Credit Card Fraud** - Use Logistic Regression to predict credit card fraud using a synthetic financial database
 - **Tennis Ace** - Linear RegreSsion model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple feature linear regression models.
 - **Transforming Data into Features** - 
+- **Wrapper Methods** - Analyse data from a survey and perform wrapper methods to choose a smaller feature subset for a model.
