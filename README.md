@@ -1,7 +1,7 @@
 ## Data Science: Machine Learning Projects (Codecademy Career Path)
 
-Each folder denotes a specific topic in the Data Science - Machine Learning course on Codecademy.
-They start from the maths section of the curriculum in 'Machine Learning Foundations'.
+Each folder denotes a specific topic in the Data Science - Machine Learning course on Codecademy, followed by a short description of
+the project tasks.
 
 - **A-B Testing at Nosh Mish Mosh** -
 - **Analysing Farmburg's A-B Test** -
