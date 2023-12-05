@@ -17,6 +17,7 @@ the project tasks.
 - **Income Classification** - Logistic Regression model to classify income level and plot coefficients, ROC curve, and AUC value.
 - **Limits and Derivatives** -
 - **Predict Credit Card Fraud** - Use Logistic Regression to predict credit card fraud using a synthetic financial database.
+- **Predict Wine Quality with Regularisation** - Predicting and classifying red wine quality using Logistic Regression classifiers which are tuned using Ridge and Lasso regularisation.
 - **Python Classes Medical Insurance** - 
 - **Tennis Ace** - Linear RegreSsion model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple-feature linear regression models.
 - **Transforming Data into Features** - 
