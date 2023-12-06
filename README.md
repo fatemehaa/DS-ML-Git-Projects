@@ -6,7 +6,7 @@ the project tasks.
 - **A-B Testing at Nosh Mish Mosh** - Calculating the necessary amount of data to make product and interface decisions for a website.
 - **Analysing Farmburg's A-B Test** - Conducting hypothesis testing using chi-squared, binomial analysis, and A/B testing on a gaming company dataset.
 - **Cancer Classifier** - Creating a K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.
-- **Classify Raisins with Hyperparameter Tuning!** - Classifying raisin types by hyperparameter Tuning using GridSearchCV with a Decision Tree classifier and RandomSearchCV with Logistic Regression.
+- **Classify Raisins with Hyperparameter Tuning!** - Classifying raisin types by hyperparameter Tuning using GridSearchCV with a Decision Tree classifier and RandomizedSearchCV with Logistic Regression.
 - **Cleaning US Census Data** - Working with multiple csv files as input data and visualising the complete dataset using scatterplots and histograms.
 - **Decision Trees** - Practice code for using decision trees as classifiers and regressors.
 - **Familiar - A Study in Data Analysis** - Conducting hypothesis testing using one-sample t-test, two-sample t-test, and chi-squared analysis on a medical product company dataset.
