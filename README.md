@@ -21,6 +21,6 @@ the project tasks.
 - **Predict Credit Card Fraud** - Use Logistic Regression to predict credit card fraud using a synthetic financial database.
 - **Predict Wine Quality with Regularisation** - Predicting and classifying red wine quality using Logistic Regression classifiers which are tuned using Ridge and Lasso regularisation.
 - **Python Classes Medical Insurance** - Using _classes_ to develop a system to organise patient data.
-- **Tennis Ace** - Linear RegreSsion model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple-feature linear regression models.
+- **Tennis Ace** - Linear Regression model with training and test sets to predict the outcome for a tennis player based on their playing habits. Single, two, and multiple-feature linear regression models.
 - **Transforming Data into Features** - Transforming categorical data, scaling the data, and working with date-time features from a clothing review dataset.
 - **Wrapper Methods** - Analyse data from a survey and perform wrapper methods to choose a smaller feature subset for a model.
