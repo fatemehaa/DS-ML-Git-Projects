@@ -12,6 +12,7 @@ the project tasks.
 - **Familiar - A Study in Data Analysis** - Conducting hypothesis testing using one-sample t-test, two-sample t-test, and chi-squared analysis on a medical product company dataset.
 - **FetchMaker** - Conducting hypothesis testing using binomial, ANOVA, Tukey's range, and chi-squared analysis on a pet information dataset.
 - **Find the Flag!** - Using a Decision Tree Classifier to find out which continent a flag is from.
+- **Handwriting Recognition using K-Means** - Using K-Mean clustering to cluster images of handwritten digits.
 - **Heart Disease Research Part II** - Investigating and conducting two-sample t-test, ANOVA, Tukey's range, and chi-squared analysis on a heart disease dataset.
 - **Honey Production** - Linear Regression using a honey production dataset.
 - **Image Transformation** - Creating and transforming images using NumPy arrays as matrices representing images.
