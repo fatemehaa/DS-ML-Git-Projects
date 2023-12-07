@@ -18,6 +18,7 @@ the project tasks.
 - **Image Transformation** - Creating and transforming images using NumPy arrays as matrices representing images.
 - **Income Classification** - Logistic Regression model to classify income level and plot coefficients, ROC curve, and AUC value.
 - **Limits and Derivatives** - Implementing a differentiation function from scratch using NumPy and exploring taking limits and numerical derivatives.
+- **PCA Project** - Classify particles into gamma(signal) or hadrons(background) and perform Principal Component Analysis (PCA) on correlated features.
 - **Predict Credit Card Fraud** - Use Logistic Regression to predict credit card fraud using a synthetic financial database.
 - **Predict Wine Quality with Regularisation** - Predicting and classifying red wine quality using Logistic Regression classifiers which are tuned using Ridge and Lasso regularisation.
 - **Python Classes Medical Insurance** - Using _classes_ to develop a system to organise patient data.
