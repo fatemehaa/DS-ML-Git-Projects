@@ -1,7 +1,6 @@
 ## Data Science: Machine Learning Projects (Codecademy Career Path)
 
-Each folder denotes a specific project in the _Data Science - Machine Learning_ course on Codecademy, followed by a short description of
-the project tasks.
+Each folder denotes a specific project in the _Data Science - Machine Learning_ course on Codecademy, followed by a short description of the project tasks.
 
 - **A-B Testing at Nosh Mish Mosh** - Calculating the necessary amount of data to make product and interface decisions for a website.
 - **Analysing Farmburg's A-B Test** - Conducting hypothesis testing using chi-squared, binomial analysis, and A/B testing on a gaming company dataset.
