@@ -4,6 +4,7 @@ Each folder denotes a specific project in the _Data Science - Machine Learning_ 
 
 - **A-B Testing at Nosh Mish Mosh** - Calculating the necessary amount of data to make product and interface decisions for a website.
 - **Analysing Farmburg's A-B Test** - Conducting hypothesis testing using chi-squared, binomial analysis, and A/B testing on a gaming company dataset.
+- **Build a Book Recommender System** - Building a book recommender system using the scikit Surprise library.
 - **Cancer Classifier** - Creating a K-Nearest Neighbor classifier that is trained to predict whether a patient has breast cancer.
 - **Classify Raisins with Hyperparameter Tuning!** - Classifying raisin types by hyperparameter Tuning using GridSearchCV with a Decision Tree classifier and RandomizedSearchCV with Logistic Regression.
 - **Cleaning US Census Data** - Working with multiple csv files as input data and visualising the complete dataset using scatterplots and histograms.
