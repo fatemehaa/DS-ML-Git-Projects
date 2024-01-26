@@ -9,6 +9,7 @@ Each folder denotes a specific project in the _Data Science - Machine Learning_ 
 - **Classify Raisins with Hyperparameter Tuning!** - Classifying raisin types by hyperparameter Tuning using GridSearchCV with a Decision Tree classifier and RandomizedSearchCV with Logistic Regression.
 - **Cleaning US Census Data** - Working with multiple csv files as input data and visualising the complete dataset using scatterplots and histograms.
 - **Decision Trees** - Practice code for using decision trees as classifiers and regressors.
+- **Email Similarity** - Implementing Naive Bayes classifier on different datasets and reporting the accuracy of the classifier.
 - **Familiar - A Study in Data Analysis** - Conducting hypothesis testing using one-sample t-test, two-sample t-test, and chi-squared analysis on a medical product company dataset.
 - **FetchMaker** - Conducting hypothesis testing using binomial, ANOVA, Tukey's range, and chi-squared analysis on a pet information dataset.
 - **Find the Flag!** - Using a Decision Tree Classifier to find out which continent a flag is from.
